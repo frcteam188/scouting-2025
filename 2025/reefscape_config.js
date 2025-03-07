@@ -1,8 +1,8 @@
 var config_data = `
 {
   "dataFormat": "tsv",
-  "title": "Scouting PASS 2025",
-  "page_title": "REEFSCAPE",
+  "title": "188 Scouting",
+  "page_title": "Scouting 2025",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter Initials",
@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2025ilpe",
+      "defaultValue": "2025onsca",
       "required": "true"
     },
     { "name": "Match Level",
@@ -118,6 +118,26 @@ var config_data = `
     },
     { "name": "Coral L4",
       "code": "tc4",
+      "type": "counter"
+    },
+    { "name": "Coral Pick up Ground",
+      "code": "tcpg",
+      "type": "counter"
+    },
+    { "name": "Coral Pick up Far",
+      "code": "tcpf",
+      "type": "counter"
+    },
+    { "name": "Coral Pick up Near",
+      "code": "tcpn",
+      "type": "counter"
+    },
+    { "name": "Algae Pick up Ground",
+      "code": "apg",
+      "type": "counter"
+    },
+    { "name": "Algae Pick up Reef",
+      "code": "apr",
       "type": "counter"
     },
     { "name": "Processor Score",
