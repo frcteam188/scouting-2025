@@ -16,6 +16,7 @@ var config_data = `
       "code": "e",
       "type": "event",
       "defaultValue": "2025onsca",
+      "disabled": "true",
       "required": "true"
     },
     { "name": "Match Level",
