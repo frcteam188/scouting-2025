@@ -1,6 +1,6 @@
 var config_data = `
 {
-  "dataFormat": "tsv",
+  "dataFormat": "kvs",
   "title": "188 Scouting",
   "page_title": "Scouting 2025",
   "checkboxAs": "10",
