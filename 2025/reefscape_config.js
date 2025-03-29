@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2025ontor",
+      "defaultValue": "2025onham",
       "disabled": "true",
       "required": "true"
     },
