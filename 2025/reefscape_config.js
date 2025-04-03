@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2025onham",
+      "defaultValue": "2025oncmp2",
       "disabled": "true",
       "required": "true"
     },
