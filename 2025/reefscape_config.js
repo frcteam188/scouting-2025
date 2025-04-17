@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2025hopper",
+      "defaultValue": "2025hop",
       "disabled": "true",
       "required": "true"
     },
